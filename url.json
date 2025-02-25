@@ -1,0 +1,108 @@
+{
+  "App Store": {
+    "Main": "prefs:root=STORE",
+    "App Downloads": "prefs:root=STORE&path=App%20Downloads",
+    "Video Autoplay": "prefs:root=STORE&path=Video%20Autoplay"
+  },
+  "Battery": {
+    "Main": "prefs:root=BATTERY_USAGE",
+    "Battery Health": "prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH"
+  },
+  "Calendar": {
+    "Main": "prefs:root=CALENDAR",
+    "Alternate Calendars": "prefs:root=CALENDAR&path=Alternate%20Calendars",
+    "Default Alert Times": "prefs:root=CALENDAR&path=Default%20Alert%20Times",
+    "Default Calendar": "prefs:root=CALENDAR&path=Default%20Calendar",
+    "Sync": "prefs:root=CALENDAR&path=Sync"
+  },
+  "Camera": {
+    "Main": "prefs:root=CAMERA",
+    "Record Slo-mo": "prefs:root=CAMERA&path=Record%20Slo-mo",
+    "Record Video": "prefs:root=CAMERA&path=Record%20Video"
+  },
+  "Cellular": {
+    "Main": "prefs:root=MOBILE_DATA_SETTINGS_ID",
+    "Cellular Data Options": "prefs:root=MOBILE_DATA_SETTINGS_ID&path=CELLULAR_DATA_OPTIONS",
+    "Low Data Mode": "prefs:root=MOBILE_DATA_SETTINGS_ID&path=CELLULAR_DATA_OPTIONS#Low%20Data%20Mode",
+    "App Data Usage": "prefs:root=MOBILE_DATA_SETTINGS_ID#APP_DATA_USAGE"
+  },
+  "Control Center": {
+    "Main": "prefs:root=ControlCenter",
+    "Customize Controls": "prefs:root=ControlCenter&path=CUSTOMIZE_CONTROLS"
+  },
+  "Display": {
+    "Main": "prefs:root=DISPLAY",
+    "Auto Lock": "prefs:root=DISPLAY&path=AUTOLOCK",
+    "Text Size": "prefs:root=DISPLAY&path=TEXT_SIZE"
+  },
+  "Do Not Disturb": {
+    "Main": "prefs:root=DO_NOT_DISTURB",
+    "Allow Calls From": "prefs:root=DO_NOT_DISTURB&path=Allow%20Calls%20From"
+  },
+  "General": {
+    "Main": "prefs:root=General",
+    "About": "prefs:root=General&path=About",
+    "AirDrop": "prefs:root=General&path=AIRDROP_LINK",
+    "AirPlay & Handoff": "prefs:root=General&path=CONTINUITY_SPEC",
+    "Background App Refresh": "prefs:root=General&path=AUTO_CONTENT_DOWNLOAD",
+    "CarPlay": "prefs:root=General&path=CARPLAY",
+    "Date & Time": "prefs:root=General&path=DATE_AND_TIME",
+    "Dictionary": "prefs:root=General&path=DICTIONARY",
+    "Home Button": "prefs:root=General&path=HOME_BUTTON",
+    "iPhone Storage": "prefs:root=General&path=STORAGE_MGMT#MANAGE",
+    "Keyboard": "prefs:root=General&path=Keyboard",
+    "Language & Region": "prefs:root=General&path=INTERNATIONAL",
+    "Legal & Regulatory": "prefs:root=General&path=LEGAL_AND_REGULATORY",
+    "Multitasking (iPad-only)": "prefs:root=General&path=MULTITASKING",
+    "Picture in Picture": "prefs:root=General&path=PiP_SPEC",
+    "Profiles": "prefs:root=General&path=ManagedConfigurationList",
+    "Regulatory": "prefs:root=General&path=REGULATORY",
+    "Reset": "prefs:root=General&path=Reset",
+    "Shut Down": "prefs:root=General#SHUTDOWN_LABEL",
+    "Software Update": "prefs:root=General&path=SOFTWARE_UPDATE_LINK",
+    "VPN": "prefs:root=General&path=VPN"
+  },
+  "iCloud": {
+    "Main": "prefs:root=CASTLE",
+    "Backup": "prefs:root=CASTLE&path=BACKUP"
+  },
+  "Standalone": {
+    "Accessibility": "prefs:root=ACCESSIBILITY",
+    "Apple Pencil": "prefs:root=Pencil",
+    "Bluetooth": "prefs:root=Bluetooth",
+    "Books": "prefs:root=IBOOKS",
+    "Compass": "prefs:root=COMPASS",
+    "Contacts": "prefs:root=CONTACTS",
+    "Emergency SOS": "prefs:root=EMERGENCY_SOS",
+    "Exposure Notifications": "prefs:root=EXPOSURE_NOTIFICATION",
+    "Face ID": "prefs:root=PASSCODE",
+    "FaceTime": "prefs:root=FACETIME",
+    "Game Center": "prefs:root=GAMECENTER",
+    "Health": "prefs:root=HEALTH",
+    "Mail": "prefs:root=MAIL",
+    "Maps": "prefs:root=MAPS",
+    "Messages": "prefs:root=MESSAGES",
+    "Music": "prefs:root=MUSIC",
+    "News": "prefs:root=NEWS",
+    "Notes": "prefs:root=NOTES",
+    "Notifications": "prefs:root=NOTIFICATIONS_ID",
+    "Passwords": "prefs:root=PASSWORDS",
+    "Personal Hotspot": "prefs:root=INTERNET_TETHERING",
+    "Phone": "prefs:root=Phone",
+    "Photos": "prefs:root=Photos",
+    "Privacy": "prefs:root=Privacy",
+    "Reminders": "prefs:root=REMINDERS",
+    "Safari": "prefs:root=SAFARI",
+    "Screen Time": "prefs:root=SCREEN_TIME",
+    "Shortcuts": "prefs:root=SHORTCUTS",
+    "Siri & Search": "prefs:root=SIRI",
+    "Sounds": "prefs:root=Sounds",
+    "Stocks": "prefs:root=STOCKS",
+    "TV": "prefs:root=TVAPP",
+    "TV Provider": "prefs-tvprovider://",
+    "Voice Memos": "prefs:root=VOICE_MEMOS",
+    "Wallet": "prefs:root=PASSBOOK",
+    "Wallpaper": "prefs:root=Wallpaper",
+    "Wi-Fi": "prefs:root=WIFI"
+  }
+}
